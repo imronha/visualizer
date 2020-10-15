@@ -1,0 +1,30 @@
+.array-container {
+  margin: auto;
+  width: 50%;
+}
+
+.array-bar {
+  width: 3px;
+  display: inline-block;
+  margin: 0 1px;
+}
+
+.array-bar-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-end;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.button-container {
+  margin-bottom: 20px;
+}
